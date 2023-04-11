@@ -1,3 +1,24 @@
+body {
+    background: linear-gradient(45deg, #bd5636, #d42d6d, #16aae0, #1cc9b2);
+	background-size: 400% 400%;
+	animation: gradient 18s ease-in-out infinite;
+	height: 100vh;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
 
 /* animation-name: wheel;
 animation-duration: 10s;
@@ -9,16 +30,13 @@ animation-timing-function: linear; */
     border-radius: 50%;
     height: 50vw;
     width: 50vw;
-    margin: 4% 30%;
+    margin: 4% 32%;
     position: absolute;
     max-width: 450px;
     max-height: 450px;
-   animation: wheel 10s infinite linear;  /*shorhand */
-    
-    
+    animation: wheel 10s infinite linear;    
 }
 
-/* The transform origin defines in which point around an element is rotated */
 .line {
     background-color: black;
     height: 2px;
@@ -26,7 +44,7 @@ animation-timing-function: linear; */
     position: absolute;
     top: 50%; 
     left: 50%;
-    transform-origin: 0% 0%;   /* left top */
+    transform-origin: 0% 0%;
 }
 
 .line:nth-of-type(2) {
@@ -51,7 +69,7 @@ animation-timing-function: linear; */
     width: 20%;
     position: absolute;
     border: 2px solid black;
-    transform-origin: 50% 0%;  /* left top */
+    transform-origin: 50% 0%;
     animation: cabins 10s ease-in infinite; 
   }
 
@@ -80,9 +98,6 @@ animation-timing-function: linear; */
     top: 7%;
   }
 
-/* The @keyframes CSS at-rule controls the intermediate steps in a CSS animation sequence by defining styles for keyframes 
-along the animation sequence.  */
-
 @keyframes wheel {
     0% {
       transform: rotate(0deg);
@@ -97,15 +112,16 @@ along the animation sequence.  */
       transform: rotate(0deg);
     }
     25% {
-      background-color: yellow;
+      background-color: rgb(228, 228, 7);
     }
     50% {
-      background-color: purple;
+      background-color: rgb(180, 9, 180);
     }
     75% {
-      background-color:yellow;
+      background-color:rgb(15, 212, 120);
     }
     100% {
       transform: rotate(-360deg);
     }
   }
+
