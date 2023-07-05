@@ -12,7 +12,7 @@ Each project resides in its own dedicated folder, complete with all necessary fi
 | **City shyline**  | ![City shyline](https://github.com/tokyohmachine/FreeCodeCamp-projects-assignment/blob/main/images/City%20Skyline-day.png) |
 | **Color makers** |  ![Color makers](https://github.com/tokyohmachine/FreeCodeCamp-projects-assignment/blob/main/images/Screenshot%202023-07-05%20at%2013-08-14%20Colored%20Markers.png) |
 | **Form**  | ![Form](https://github.com/tokyohmachine/FreeCodeCamp-projects-assignment/blob/main/images/Screenshot%202023-07-05%20at%2013-08-37%20Accessibility%20Quiz.png) |
-| **Penguin mood**  | ![Penguin mood]() |
+| **Penguin mood**  | ![Penguin mood](https://github.com/tokyohmachine/FreeCodeCamp-projects-assignment/blob/main/images/Screenshot%202023-07-05%20at%2013-08-55%20Penguin%20Mood.png) |
 | **Piano**  | ![Piano](https://github.com/tokyohmachine/FreeCodeCamp-projects-assignment/blob/main/images/Screenshot%202023-07-05%20at%2013-09-08%20Piano%20player.png) |
 | **Picasso painting**  | ![Picasso painting](https://github.com/tokyohmachine/FreeCodeCamp-projects-assignment/blob/main/images/Screenshot%202023-07-05%20at%2013-09-23%20Picasso%20Painting.png) |
 | **Survey form**  | ![Survey form](https://github.com/tokyohmachine/FreeCodeCamp-projects-assignment/blob/main/images/Screen%20Shot%202023-07-05%20at%2013.10.01-survey.png) |
