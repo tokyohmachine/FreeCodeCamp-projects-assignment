@@ -16,7 +16,7 @@ Each project resides in its own dedicated folder, complete with all necessary fi
 | **Form**  | ![Form]() |
 | **Piano**  | ![Piano](https://github.com/tokyohmachine/FreeCodeCamp-projects-assignment/blob/main/images/Screenshot%202023-07-05%20at%2013-09-08%20Piano%20player.png) |
 | **Picasso painting**  | ![Picasso painting](https://github.com/tokyohmachine/FreeCodeCamp-projects-assignment/blob/main/images/Screenshot%202023-07-05%20at%2013-09-23%20Picasso%20Painting.png) |
-| **Survey form**  | ![Survey form]() |
+| **Survey form**  | ![Survey form](https://github.com/tokyohmachine/FreeCodeCamp-projects-assignment/blob/main/images/Screen%20Shot%202023-07-05%20at%2013.10.01-survey.png) |
 | **Tribute Page**  | ![Tribute Page](https://github.com/tokyohmachine/FreeCodeCamp-projects-assignment/blob/main/images/Screenshot%202023-07-05%20at%2013-11-31%20Ada%20Lovelace%20Tribute%20Page.png) |
 
 ## Credits
